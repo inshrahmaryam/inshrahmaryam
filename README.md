@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inshrah Maryam</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan.</h3>
-<img align="right" alt="coding" width="400" src="https://pin.it/34G9GI2jI">
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpoojagusain101&psig=AOvVaw2UT_NWkAJFAPkKM_BOZN1b&ust=1722637364616000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCID1orXq1IcDFQAAAAAdAAAAABAE" alt="inshrahmaryam" /> </p>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
+<!-- <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpoojagusain101&psig=AOvVaw2UT_NWkAJFAPkKM_BOZN1b&ust=1722637364616000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCID1orXq1IcDFQAAAAAdAAAAABAE" alt="inshrahmaryam" /> </p> -->
 
 - 🔭 I’m currently studying **Computer Science**
 
@@ -10,7 +10,6 @@
 - 💬 Ask me about **html,css and javascript**
 
 - 📫 How to reach me **inshrahmaryam68@gmail.com**
-  
 
 - ⚡ Fun fact **I read books and i write journals :)**
 
