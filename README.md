@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **computer science**
 
-- 🌱 I’m currently learning **flutter.**
+- 🌱 I’m currently learning **web development.**
 
 - 💬 Ask me about **html,css and javascript**
 
