@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning **web development** presently
 
-- 💬 Ask me about **html,css,bs5,scss and javascript**
+- 💬 Ask me about **html, css, bs5, scss and javascript**
 
 - 📫 How to reach me **inshrahmaryam68@gmail.com**
 
