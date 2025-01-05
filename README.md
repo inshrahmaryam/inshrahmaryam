@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning **web development** presently
 
-- 💬 Feel free to ask me anything about HTML, CSS, Bootstrap 5, SCSS, and Laravel. 🚀
+- 💬 Ask me anything about **HTML, CSS, Bootstrap 5, SCSS, and Laravel.** 
 - 📫 How to reach me **inshrahmaryam68@gmail.com**
 
 - ⚡ Fun fact **I read books and i write journals :)**
