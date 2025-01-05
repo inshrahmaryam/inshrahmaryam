@@ -68,10 +68,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Laravel.svg" alt="laravel" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_Logo.svg" alt="laravel" width="40" height="40"/> 
 </a> 
 <a href="https://www.php.net/manual/en/book.blade.php" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Blade_logo.svg" alt="blade" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/41041826?s=200&v=4" alt="blade" width="40" height="40"/> 
 </a>
 
 </p>
