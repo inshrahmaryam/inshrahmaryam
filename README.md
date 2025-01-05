@@ -64,6 +64,15 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="scss" width="40" height="40"/>
   </a> 
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+</a> 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
+</a> 
+<a href="https://laravel.com/docs/8.x/blade" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blade/blade-original.svg" alt="blade" width="40" height="40"/> 
+</a>
 </p>
 
 
