@@ -68,7 +68,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" alt="laravel" width="40" height="40"/> 
 </a> 
 <a href="https://www.php.net/manual/en/book.blade.php" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Blade_logo.svg" alt="blade" width="40" height="40"/> 
