@@ -7,8 +7,7 @@
 
 - 🌱 I’m learning **web development** presently
 
-- 💬 Ask me about **html, css, bs5, scss and javascript**
-
+- 💬 Feel free to ask me anything about HTML, CSS, Bootstrap 5, SCSS, and Laravel. 🚀
 - 📫 How to reach me **inshrahmaryam68@gmail.com**
 
 - ⚡ Fun fact **I read books and i write journals :)**
@@ -68,9 +67,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_Logo.svg" alt="laravel" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" alt="laravel" width="40" height="40"/> 
 </a> 
-<a href="https://www.php.net/manual/en/book.blade.php" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.php.net/manual/en/book.blade.php" target="_blank" rel="noreferrer"> 
+  <img src="https://avatars.githubusercontent.com/u/41041826?s=200&v=4" alt="blade" width="40" height="40"/> 
+</a> -->
+<a href="https://laravel.com/docs/8.x/blade" target="_blank" rel="noreferrer"> 
   <img src="https://avatars.githubusercontent.com/u/41041826?s=200&v=4" alt="blade" width="40" height="40"/> 
 </a>
 
