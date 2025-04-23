@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently studying **computer science**
 
-- 🌱 I’m learning **web development** presently
+- 🌱 I’m learning **python development** presently
 
-- 💬 Ask me about **HTML, CSS, Bootstrap 5, SCSS, and Laravel.** 
-- 📫 How to reach me **inshrahmaryam68@gmail.com**
+- 💬 Ask me about **web development** 
+- 📫 How to reach me **inshrahmaryamm@gmail.com**
 
 - ⚡ Fun fact **I read books and i write journals :)**
 
