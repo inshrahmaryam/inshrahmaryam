@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **computer science**
 
-- 🌱 I’m learning **python development** presently
+- 🌱 I’m learning **python** presently
 
 - 💬 Ask me about **web development** 
 - 📫 How to reach me **inshrahmaryamm@gmail.com**
