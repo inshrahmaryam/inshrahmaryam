@@ -72,6 +72,10 @@
 <a href="https://laravel.com/docs/8.x/blade" target="_blank" rel="noreferrer"> 
   <img src="https://avatars.githubusercontent.com/u/41041826?s=200&v=4" alt="blade" width="40" height="40"/> 
 </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
+</a>
+
 
 </p>
 
