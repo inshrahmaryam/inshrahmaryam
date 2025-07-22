@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently studying **computer science**
 
-- 🌱 I’m learning **python** presently
+- 🌱 I’m learning **development** presently
 
-- 💬 Ask me about **web development** 
 - 📫 How to reach me **inshrahmaryamm@gmail.com**
 
 - ⚡ Fun fact **I read books and i write journals :)**
