@@ -44,12 +44,4 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
----
 
-<h3>📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=inshrahmaryam&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=inshrahmaryam&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</p>
