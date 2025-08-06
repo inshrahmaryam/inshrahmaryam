@@ -31,6 +31,9 @@
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://reactrouter.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/remix-run/react-router/main/website/static/favicon.png" alt="react-router" width="40" height="40"/>
+</a>
   <a href="https://redux.js.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </a>
