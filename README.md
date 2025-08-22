@@ -3,8 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" />
 
-- 🔭 I’m currently studying **Computer Science**  
-- 🌱 I’m learning **to build AI Agents** at present
+- 🔭 I’m studying **Computer Science** at present
+- 🌱 Currently exploring **AI Agents development**, applying Python, OOP, and advanced programming concepts.
+
 - 📫 Reach me at **inshrahmaryamm@gmail.com**  
 - ⚡ Fun fact: **I read books 📚 and write journals 📝**  
 
