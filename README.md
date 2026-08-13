@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" />
 
-- 🔭 I’m studying **Computer Science** at present  
+- 🔭 I’m a **Computer Science** graduate.
 - 🌱 Currently exploring **AI**.  
 
 - 📫 Reach me at **inshrahmaryam68@gmail.com**  
