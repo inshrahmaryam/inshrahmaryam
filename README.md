@@ -6,7 +6,7 @@
 - 🔭 I’m studying **Computer Science** at present  
 - 🌱 Currently exploring **AI**.  
 
-- 📫 Reach me at **inshrahmaryamm@gmail.com**  
+- 📫 Reach me at **inshrahmaryam68@gmail.com**  
 - ⚡ Fun fact: **I read books 📚 and write journals 📝**  
 
 ---
